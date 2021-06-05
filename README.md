@@ -1,4 +1,4 @@
-# Raspberry-ile-Otonom-Surus
+# Raspberry Pi ile Otonom Surus
 Raspberry Pi ve Arduino UNO İle Otonom Sürüş Yapan Araba Projesi.
 
 # İçerik
