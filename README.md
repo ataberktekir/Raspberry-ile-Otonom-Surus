@@ -2,12 +2,12 @@
 Raspberry Pi ve Arduino UNO İle Otonom Sürüş Yapan Araba Projesi.
 
 # İçerik
-- [Özet](https://github.com/ataberktekir/Raspberry-ile-Otonom-Surus/new/main?readme=1#%C3%B6zet)
-- [Donanım](https://github.com/ataberktekir/Raspberry-ile-Otonom-Surus/new/main?readme=1#donan%C4%B1m)
-- [Sistem Şeması ve Bağlantılar](https://github.com/ataberktekir/Raspberry-ile-Otonom-Surus/new/main?readme=1#sistem-%C5%9Femas%C4%B1)
-- [Şerit Takibi](https://github.com/ataberktekir/Raspberry-ile-Otonom-Surus/new/main?readme=1#%C5%9Ferit-takibi)
-- [Nesne ve DUR İşareti Algılama](https://github.com/ataberktekir/Raspberry-ile-Otonom-Surus/new/main?readme=1#nesne-ve-dur-i%CC%87%C5%9Fareti-alg%C4%B1lama)
-- [Kodlama](https://github.com/ataberktekir/Raspberry-ile-Otonom-Surus/new/main?readme=1#kodlama)
+- [Özet](https://github.com/ataberktekir/Raspberry-ile-Otonom-Surus#%C3%B6zet)
+- [Donanım](https://github.com/ataberktekir/Raspberry-ile-Otonom-Surus#donan%C4%B1m)
+- [Sistem Şeması ve Bağlantılar](https://github.com/ataberktekir/Raspberry-ile-Otonom-Surus#sistem-%C5%9Femas%C4%B1)
+- [Şerit Takibi](https://github.com/ataberktekir/Raspberry-ile-Otonom-Surus#%C5%9Ferit-takibi)
+- [Nesne ve DUR İşareti Algılama](https://github.com/ataberktekir/Raspberry-ile-Otonom-Surus#nesne-ve-dur-i%CC%87%C5%9Fareti-alg%C4%B1lama)
+- [Kodlama](https://github.com/ataberktekir/Raspberry-ile-Otonom-Surus#kodlama)
 
 ## Özet
 Projemiz,8 Mp'lik bir Raspberry Pi Kamerası ile gerçek zamanlı görüntü işleme yöntemini kullanarak otonom sürüş gerçekleştirmek üzere planlanmıştır.Araç bu otonom sürüşte:
